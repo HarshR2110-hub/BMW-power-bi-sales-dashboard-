@@ -140,6 +140,3 @@ If you like this project, please ⭐ star the repo to support my work!
 
 
 
-⭐ Support
-
-If you like this project, please ⭐ star the repo to support my work!
